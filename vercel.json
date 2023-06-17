@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "DATA_1": "3a1df7cd927e4982b0e24e6c265cf3f1",
+      "DATA_2": "fe92108ead614290bb6223ef1764440e"
+    }
+  }
+}
